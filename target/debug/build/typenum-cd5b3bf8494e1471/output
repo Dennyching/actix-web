@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/denny/code/rust/actix-web/target/debug/build/typenum-cd5b3bf8494e1471/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/denny/code/rust/actix-web/target/debug/build/typenum-cd5b3bf8494e1471/out/op.rs
